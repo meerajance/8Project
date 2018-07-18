@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45867" started-at="2018-07-18T05:50:59Z" finished-at="2018-07-18T05:51:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45867" started-at="2018-07-18T05:50:59Z" finished-at="2018-07-18T05:51:45Z">
+      <class name="com.company.project.trip_Automation.AppTest">
+        <test-method status="PASS" signature="findCheapestAndExpensiveTrip()[pri:0, instance:com.company.project.trip_Automation.AppTest@9225652]" name="findCheapestAndExpensiveTrip" duration-ms="45772" started-at="2018-07-18T05:50:59Z" finished-at="2018-07-18T05:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findCheapestAndExpensiveTrip -->
+      </class> <!-- com.company.project.trip_Automation.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
